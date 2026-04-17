@@ -1,4 +1,4 @@
-const scriptURL = "PASTE_YOUR_GOOGLE_APPS_SCRIPT_URL_HERE";
+const scriptURL = "https://script.google.com/macros/s/AKfycbzGpiDt-GsRhQEjEgxb8xRSJYvAhn4r9sOK8SIOl-cZJadQHtN6h0dMn2I8p-U4tB_g/exec";
 const submittedKey = "beijingInfoFormSubmitted";
 
 const menuToggle = document.getElementById("menuToggle");
